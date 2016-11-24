@@ -2,6 +2,10 @@
 
 Titanium CommonJS module for https://github.com/werk85/node-html-to-text
 
+## Demo
+
+![demo](demo.gif)
+
 ## Usage
 A packaged *CommonJS* module can be found via [Releases](https://github.com/chmiiller/Ti.html-to-text/releases). Follow the guide on [Using a Module](http://docs.appcelerator.com/titanium/latest/#!/guide/Using_a_Module)
 
